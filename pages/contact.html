@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ContactUs</title>
+    <style>
+        body{
+            background-color: aqua;
+        }
+        div{text-align: center;}
+        div{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+        div{color: green;}
+        a{text-align: center;}
+    </style>
+</head>
+<body>
+    <div id="ContactUs">
+        <h1>Contact Us</h1>
+        <form action = '#'>
+            <div class = 'form-shape'>
+                <label for="query">
+                    Type of query
+                </label>
+                <select name = 'myQuery' id="query">
+                    <option value = 'sel' selected>
+                        Select 
+                    </option>
+                    <option value="ord">
+                        Order related issues
+                    </option>    
+                    <option value="Site">
+                        Site related issue
+                    </option>
+                    <option value="fed">
+                        Complaint related issues
+                    </option>
+                    <option value="others">
+                        Other issues
+                    </option>
+                </select>
+            </div>
+<br>
+            <div class="form-shape">
+                <label for="name">Name</label>
+                <input type="text" name="Myname"
+                    id="name"
+                    placeholder="Enter your name">
+            </div>
+<br>
+            <div class="form-shape">
+                <label for="phonenumber">Phone number</label>
+                <input type="phone" name="phonenumber"
+                    id="phonenumber"
+                    placeholder="Enter your phonenumber">  
+            </div>  
+<br>  
+            <div class='form-shape'>
+                <label for="message">Ellaborate on your query </label>
+                <input type="text" name="query"
+                id="message" 
+                placeholder="Ellaborate on your query">
+            </div>    
+        </form>
+    </div>
+<br>    
+    <a href = '../index.html'>BACK TO INDEX</a>
+</body>
+</html>
