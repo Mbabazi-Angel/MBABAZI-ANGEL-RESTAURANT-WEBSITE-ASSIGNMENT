@@ -5,4 +5,7 @@
 <img width="960" alt="Screenshot 2023-10-20 233804" src="https://github.com/Mbabazi-Angel/MBABAZI-ANGEL-RESTAURANT-WEBSITE-ASSIGNMENT/assets/144022384/08b7866b-8681-4e5a-8169-fd2109e9c1f9">
 <img width="957" alt="Screenshot 2023-10-20 235114" src="https://github.com/Mbabazi-Angel/MBABAZI-ANGEL-RESTAURANT-WEBSITE-ASSIGNMENT/asset
 <img width="957" alt="Screenshot 2023-10-20 233939" src="https://github.com/Mbabazi-Angel/MBABAZI-ANGEL-RESTAURANT-WEBSITE-ASSIGNMENT/assets/144022384/8b0d5d42-9553-4230-bbfd-c224653c442c">
-s/144022384/554f51bb-f0de-46d5-a968-09382b59a1ed">
+s/144022384/554f51bb-f0de-46d5-a968-09382b59a1ed"><img width="957" alt="Screenshot 2023-10-20 235114" src="https://github.com/Mbabazi-Angel/MBABAZI-ANGEL-RESTAURANT-WEBSITE-ASSIGNMENT/assets/144022384/81c365d7-6883-4c43-b0c5-39d0dd065641">
+<img width="957" alt="Screenshot 2023-10-20 233939" src="https://github.com/Mbabazi-Angel/MBABAZI-ANGEL-RESTAURANT-WEBSITE-ASSIGNMENT/assets/144022384/ade45d23-6881-495a-be4b-070603e49949">
+
+
